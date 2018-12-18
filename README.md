@@ -1,5 +1,4 @@
-# Getting Started with TensorFlow in Google Colaboratory
-### -Learn two exciting technologies in 10 minutes!
+# Getting Started with TensorFlow in Google Colaboratory - Learn two exciting technologies in 10 minutes!
 
 
 ## What
